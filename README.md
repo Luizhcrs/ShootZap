@@ -7,5 +7,5 @@ pip install streamlit
 Node js 14 
 
 # USO
-iniciar a aplicação python na pasta ultilizando o streamlit (streamlit run index.py)
+iniciar a aplicação python na pasta ultilizando o streamlit (streamlit run index.py).
 iniciar api com o node (npm start)
