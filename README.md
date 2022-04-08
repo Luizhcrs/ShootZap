@@ -12,4 +12,4 @@ Usando a implementação do [@ookamiiixd] com a api baileys [@ookamiiixd/baileys
 # USO
 1. iniciar a aplicação python na pasta ultilizando o streamlit (streamlit run index.py).
 2. iniciar api com o node (npm start)
-3. crie uma sessaõ com o mesmo id do usuario
+3. crie uma sessão com o mesmo id do usuario
